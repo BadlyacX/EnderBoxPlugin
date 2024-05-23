@@ -1,0 +1,8 @@
+name: Backpack
+main: org.badlyac.backpack.BackpackMain
+version: 1.20.4
+author: Badlyac
+commands:
+  enderbox:
+    aliases: eb
+    usage: /enderbox
